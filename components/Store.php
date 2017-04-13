@@ -21,3 +21,4 @@ class Store extends Component implements BootstrapInterface
 		Yii::$service->store->bootstrap($app);
     }
 }
+...
